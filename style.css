@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header nav a img{
+    width: 100px;
+}
+
+nav{
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.user-badge{
+    width: 34px;
+    padding: 5px;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+
+main{
+    margin-top: 200px;
+}
