@@ -27,3 +27,17 @@ nav{
 main{
     margin-top: 200px;
 }
+
+.bg-lt-grey{
+    background-color: #f5f5f5;
+}
+
+footer select{
+    font-size: 0.75rem !important;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: grey;
+}
+
